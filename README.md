@@ -38,3 +38,17 @@ This project integrates API-based fetching and web scraping, along with data sto
 ---
 
 ## 📁 Project Structure
+
+NewsAggregator/
+│
+├── main.py
+├── fetcher.py
+├── filters.py
+├── deduplicator.py
+├── storage.py
+├── exporter.py
+├── config.py
+│
+├── news.json
+├── news.csv
+└── news.db
